@@ -60,6 +60,25 @@ html{
     background-color: #e62e84 ;
 
 }
+table{
+    margin: 10px 15px;
+    padding: 10px 20px;
+    background-color: rgba(193,240,255, 0.3);
+    border-radius: 10px;
+}
+.plan-details {
+    text-align: left;
+    padding: 5px 10px;
+    font-size: smaller;
+    font-weight: lighter;
+    color: #888;
+}
+
+span{
+    color: black;
+    font-size: small;
+    font-weight: 800;
+}
 
 @media (max-width:425px) {
     body{
